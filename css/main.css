@@ -1,0 +1,41 @@
+.logo {
+    background-color: #1c626b;
+}
+.logotext {
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Kalam', cursive;
+}
+.block_logo {
+    display: flex;
+}
+.logopic {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 360px;
+    width: 300px;
+}
+.logopic1 {
+    background-image: url("../imades/log1.jpg");
+}
+.logopic2 {
+    background-image: url("../imades/log2.jpg");
+}
+.logopic3 {
+    background-image: url("../imades/log3.jpg");
+}
+.logopic4 {
+    background-image: url("../imades/log4.jpg");
+}
+.logopic5 {
+    background-image: url("../imades/log5.jpg");
+}
+.logopic6 {
+    background-image: url("../imades/log6.jpg");
+}
+.logo_down {
+    background-color: #b39814;
+}
+
